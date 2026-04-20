@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa4f39a9db1e8b443a61f2693ba4c390
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Blood: {fileID: 7847422815469124374, guid: 35c78b9488fa9d240ae15bba4861f7cf, type: 3}
+  - bloodSlider: {instanceID: 0}
+  - barPos: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
